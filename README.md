@@ -56,15 +56,15 @@ Pronto.
 
 ## 📦 Estrutura do Projeto
 
-ankeiro/
-│
-├── manifest.json
-├── content.js
-├── popup.html
-├── popup.js
-├── icons/
-│ ├── logo.png
-└── README.md
+ankeiro/<br>
+│<br>
+├── manifest.json<br>
+├── content.js<br>
+├── popup.html<br>
+├── popup.js<br>
+├── icons/<br>
+│ ├── logo.png<br>
+└── README.md<br>
 
 
 ---
